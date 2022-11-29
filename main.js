@@ -57,5 +57,5 @@ while (survivingSpecimen.length < 30) {
   idCounter++;
 }
 //testing my solution
-
+//hochiu commitnuti eto
 console.log(survivingSpecimen)
