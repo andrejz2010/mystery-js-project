@@ -57,4 +57,5 @@ while (survivingSpecimen.length < 30) {
   idCounter++;
 }
 //testing my solution
+// ja hochu dobiti pisochnicu
 console.log(survivingSpecimen)
