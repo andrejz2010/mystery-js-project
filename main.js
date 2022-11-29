@@ -60,4 +60,5 @@ while (survivingSpecimen.length < 30) {
 // ja hochu dobiti pisochnicu
 //budu pushiti poka ne zajebiot
 //pochemu ja hochu stati programistom
+//eto pozvolit mne puteshestvovati i poluchati horoshuju zarplatu
 console.log(survivingSpecimen)
