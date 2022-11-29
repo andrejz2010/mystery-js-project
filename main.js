@@ -5,6 +5,7 @@ const returnRandBase = () => {
 }
 
 // creates new array
+
 const mockUpStrand = () => {
   const newStrand = []
   for (let i = 0; i < 15; i++) {
@@ -55,5 +56,5 @@ while (survivingSpecimen.length < 30) {
   }
   idCounter++;
 }
-
+//testing my solution
 console.log(survivingSpecimen)
