@@ -57,9 +57,5 @@ while (survivingSpecimen.length < 30) {
   idCounter++;
 }
 //testing my solution
-// ja hochu dobiti pisochnicu
-//budu pushiti poka ne zajebiot
-//pochemu ja hochu stati programistom
-//eto pozvolit mne puteshestvovati i poluchati horoshuju zarplatu
-// kak raz nachnu uchitsa v itincubator posle novogo goda! A tam do leta malo ostanetsa! 
+
 console.log(survivingSpecimen)
