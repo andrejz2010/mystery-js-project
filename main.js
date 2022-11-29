@@ -58,4 +58,5 @@ while (survivingSpecimen.length < 30) {
 }
 //testing my solution
 // ja hochu dobiti pisochnicu
+//budu pushiti poka ne zajebiot
 console.log(survivingSpecimen)
