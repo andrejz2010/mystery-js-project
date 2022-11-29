@@ -4,7 +4,7 @@ const returnRandBase = () => {
   return dnaBases[Math.floor(Math.random() * 4)]
 }
 
-// We changed this comment
+// creates new array
 const mockUpStrand = () => {
   const newStrand = []
   for (let i = 0; i < 15; i++) {
